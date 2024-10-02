@@ -44,6 +44,7 @@ Doge Unblocker is a lightning-fast site unblocker designed for performance and s
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/dogenetwork/v4)
 
 **Deploy locally:**
+In Github, go to Code and click on Codespaces. Then go to "Run on new codespace". Then when it opens, In the terminal paste these commands:
 ```
 git clone https://github.com/DogeNetwork/v4
 cd v4
